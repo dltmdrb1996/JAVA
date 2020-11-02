@@ -8,5 +8,23 @@
 	<classpathentry kind="src" path="DAY_4"/>
 	<classpathentry kind="src" path="DAY_6"/>
 	<classpathentry kind="src" path="DAY_7"/>
+	<classpathentry kind="src" path="DAY_8"/>
+	<classpathentry kind="src" path="DAY_9"/>
+	<classpathentry kind="src" path="DAY_10"/>
+	<classpathentry kind="src" path="DAY_11"/>
+	<classpathentry kind="src" path="DAY_12"/>
+	<classpathentry kind="src" path="DAY_13"/>
+	<classpathentry kind="src" path="DAY_14"/>
+	<classpathentry kind="src" path="DAY_15"/>
+	<classpathentry kind="src" path="DAY_16"/>
+	<classpathentry kind="src" path="DAY_17"/>
+	<classpathentry kind="src" path="DAY_18"/>
+	<classpathentry kind="src" path="DAY_19"/>
+	<classpathentry kind="src" path="DAY_20"/>
+	<classpathentry kind="src" path="DAY_21"/>
+	<classpathentry kind="src" path="DAY_22"/>
+	<classpathentry kind="src" path="DAY_23"/>
+	<classpathentry kind="src" path="DAY_24"/>
+	<classpathentry kind="src" path="DAY_25"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
